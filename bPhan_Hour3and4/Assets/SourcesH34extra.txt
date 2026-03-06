@@ -1,0 +1,15 @@
+ __  __     __   __     __     ______   __  __    
+/\ \/\ \   /\ "-.\ \   /\ \   /\__  _\ /\ \_\ \   
+\ \ \_\ \  \ \ \-.  \  \ \ \  \/_/\ \/ \ \____ \  
+ \ \_____\  \ \_\\"\_\  \ \_\    \ \_\  \/\_____\ 
+  \/_____/   \/_/ \/_/   \/_/     \/_/   \/_____/                       
+                                                                                                                                                                  
+
+
+Texture 1 source url: https://img.freepik.com/premium-photo/stone-wall-seamless-texture-abstract-background_956363-1233.jpg?w=2000
+
+Texture 2 source url: https://cgaxisimages.fra1.digitaloceanspaces.com/2023/02/stone_wall_60_25_glossiness-708x708.webp
+
+3D model source url: https://assetstore.unity.com/packages/3d/characters/robots/robot-kyle-urp-4696
+
+Tank 3D model source url: https://assetstore.unity.com/packages/essentials/tutorial-projects/tanks-complete-project-46209

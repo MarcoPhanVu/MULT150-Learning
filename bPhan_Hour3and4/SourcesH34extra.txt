@@ -12,3 +12,4 @@ Texture 2 source url: https://cgaxisimages.fra1.digitaloceanspaces.com/2023/02/s
 
 3D model source url: https://assetstore.unity.com/packages/3d/characters/robots/robot-kyle-urp-4696
 
+Tank 3D model source url: https://assetstore.unity.com/packages/essentials/tutorial-projects/tanks-complete-project-46209
