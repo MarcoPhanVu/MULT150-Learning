@@ -8,16 +8,17 @@
 
 A. Add multiple finish zones. See if you can place them in a way that offers the player more choices. For example, a dangerous shortcut route vs an easy but lengthier one.
 
-
+Added an additional finish zone, blocked from view by a bridge. I would not go right right away so if that was me, I'd miss that closer finish zone.
 
 B. Modify the level to have more, and different hazards. (At least 2 new hazards that are not water.)
 
-
+Added an acidic and lava hazard.
 
 C. Modify the game to include an element of verticality in your game to make use of the jumping mechanic! (spacebar to jump)
 
-
+Added a bridge, one of them require the player to jump to get on, else they'll have to walk under it.
 
 D. Modify the sky and textures to create a world based on your theme.
 
+Created a "fun" sky box to elevate the contrast of the overall theme.
 
