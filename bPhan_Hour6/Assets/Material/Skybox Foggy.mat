@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: New Material
+  m_Name: Skybox Foggy
   m_Shader: {fileID: 106, guid: 0000000000000000f000000000000000, type: 0}
   m_ValidKeywords:
   - _SUNDISK_HIGH_QUALITY
@@ -107,6 +107,6 @@ Material:
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _GroundColor: {r: 0.8443396, g: 0.86515236, b: 1, a: 1}
-    - _SkyTint: {r: 0.2775454, g: 0.4888987, b: 0.7264151, a: 1}
+    - _GroundColor: {r: 0.5157974, g: 0.6320754, b: 0.5230878, a: 1}
+    - _SkyTint: {r: 1, g: 0.2780354, b: 0, a: 1}
   m_BuildTextureStacks: []
