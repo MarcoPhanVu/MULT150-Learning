@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class CameraControl : MonoBehaviour
 {
-    public float moveSpeed = 3f;
+    public float moveSpeed = 0.001f;
     // Start is called before the first frame update
     void Start()
     {
@@ -19,6 +19,6 @@ public class CameraControl : MonoBehaviour
 
         transform.Translate(moveX * moveSpeed,
                             moveY * moveSpeed,
-                            0f);
+                            0);
     }
 }
