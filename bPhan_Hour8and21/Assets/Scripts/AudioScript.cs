@@ -16,13 +16,13 @@ public class AudioScript : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.Z)  || Input.GetKeyDown(KeyCode.Space) || Input.GetButtonDown("Jump"))
         {
-            audioSource.Stop();
-            Debug.Log("Z pressed, stopping music");
+            Debug.Log("Z pressed, toggle audio");
+            ToggleAudio();
         }
-        else if(Input.GetKeyDown(KeyCode.X))
-        {
-            audioSource.Play(); // Will loop forever every frame.
-            Debug.Log("X pressed, Starting music");
-        }
+    }
+
+    void ToggleAudio()
+    {
+        audioSource.Play();
     }
 }
