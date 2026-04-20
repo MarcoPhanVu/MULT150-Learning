@@ -38,6 +38,10 @@ public class TriggerScript : MonoBehaviour
     {
         print(collider.gameObject.name + " is still in the " + gameObject.name);
     }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 99567e22923e5e4da66eaffbb0843033788bac9a
     void OnCollisionExit (Collision collider)
     {
         print(collider.gameObject.name + " has left the " + gameObject.name);
