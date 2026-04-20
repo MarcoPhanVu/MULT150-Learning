@@ -18,15 +18,29 @@ public class TriggerScript : MonoBehaviour
 
     void OnTriggerEnter (Collider other)
     {
-        print(other.gameObject.name + " has entered the cube");
+        print(other.gameObject.name + " has entered the " + gameObject.name);
     }
     void OnTriggerStay (Collider other)
     {
-        print(other.gameObject.name + " is still in the cube");
+        print(other.gameObject.name + " is still in the " + gameObject.name);
     }
 
     void OnTriggerExit (Collider other)
     {
-        print(other.gameObject.name + " has left the cube");
+        print(other.gameObject.name + " has left the " + gameObject.name);
+    }
+
+    void OnCollisionEnter (Collision collider)
+    {
+        print(collider.gameObject.name + " has entered the " + gameObject.name);
+    }
+    void OnCollisionStay (Collision collider)
+    {
+        print(collider.gameObject.name + " is still in the " + gameObject.name);
+    }
+
+    void OnCollisionExit (Collision collider)
+    {
+        print(collider.gameObject.name + " has left the " + gameObject.name);
     }
 }
