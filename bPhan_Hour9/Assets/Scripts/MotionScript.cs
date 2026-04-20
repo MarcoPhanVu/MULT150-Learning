@@ -15,8 +15,8 @@ public class MotionScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        // float mouseX = Input.GetAxis("Mouse X") / 10;
-        // float mouseY = Input.GetAxis("Mouse Y") / 10;
+        float mouseX = Input.GetAxis("Mouse X") / 10;
+        float mouseY = Input.GetAxis("Mouse Y") / 10;
 
         float moveX = Input.GetAxis("Horizontal"); // A/D or Left/Right
         float moveZ = Input.GetAxis("Vertical");   // W/S or Up/Down
