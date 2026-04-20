@@ -18,35 +18,15 @@ public class TriggerScript : MonoBehaviour
 
     void OnTriggerEnter (Collider other)
     {
-<<<<<<< HEAD
-<<<<<<< HEAD
         print(other.gameObject.name + " has entered the " + gameObject.name);
     }
     void OnTriggerStay (Collider other)
     {
         print(other.gameObject.name + " is still in the " + gameObject.name);
-=======
-        print(other.gameObject.name + " has entered the cube");
-    }
-    void OnTriggerStay (Collider other)
-    {
-        print(other.gameObject.name + " is still in the cube");
->>>>>>> 075f888 (add TIYs)
-=======
-        print(other.gameObject.name + " has entered the " + gameObject.name);
-    }
-    void OnTriggerStay (Collider other)
-    {
-        print(other.gameObject.name + " is still in the " + gameObject.name);
->>>>>>> 4bc1069 (add H9)
     }
 
     void OnTriggerExit (Collider other)
     {
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 4bc1069 (add H9)
         print(other.gameObject.name + " has left the " + gameObject.name);
     }
 
@@ -58,15 +38,8 @@ public class TriggerScript : MonoBehaviour
     {
         print(collider.gameObject.name + " is still in the " + gameObject.name);
     }
-
     void OnCollisionExit (Collision collider)
     {
         print(collider.gameObject.name + " has left the " + gameObject.name);
-<<<<<<< HEAD
-=======
-        print(other.gameObject.name + " has left the cube");
->>>>>>> 075f888 (add TIYs)
-=======
->>>>>>> 4bc1069 (add H9)
     }
 }
