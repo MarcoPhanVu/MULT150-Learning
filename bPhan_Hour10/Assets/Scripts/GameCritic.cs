@@ -5,7 +5,6 @@
 
 // Additional changes
 // Add a restart menu when the game is over
-// Add a timer to make the game more challenging
-// End the game if the player takes too long
+// Add a timer to make the game more exciting
 // Adjusted the size of bumber
 // Changed the shape of the bumper
