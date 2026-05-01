@@ -7,4 +7,5 @@
 // Add a restart menu when the game is over
 // Add a timer to make the game more exciting
 // Adjusted the size of bumber
-// Changed the shape of the bumper
+// Changed the shape of the bumper for easier ball control
+// Changed the Camera angle so that we can see the goals better
