@@ -12,8 +12,9 @@ public class GoalScript : MonoBehaviour
         if (collidedWith.tag == gameObject.tag)
         {
             isSolved = true;
+            Debug.Log("Goal Solved(" + gameObject.tag +")");
             GetComponent<Light>().enabled = false;
-            Destroy (collidedWith);
+            collidedWith.SetActive(false); // disable instead of destroying so that we can reset the game without reloading the scene
         }
     }
 

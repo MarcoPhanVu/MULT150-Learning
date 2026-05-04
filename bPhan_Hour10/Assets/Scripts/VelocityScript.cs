@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class VelocitySciprt : MonoBehaviour
+public class VelocityScript : MonoBehaviour
 {
     // Start is called before the first frame update
     public float startSpeed = 8f;
