@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Game_Placeholder.unity
     guid: 519331384f26b2b44a9bbb871a7f02d9
+  - enabled: 1
+    path: Assets/Scenes/TIY_16.unity
+    guid: 840eb9768ed1d274493a11fa8a6bc16f
   m_configObjects: {}
