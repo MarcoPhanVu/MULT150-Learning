@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/TIY_16.unity
     guid: 840eb9768ed1d274493a11fa8a6bc16f
+  - enabled: 1
+    path: Assets/Scenes/bPhan_Hour16.unity
+    guid: 076375ce59f68aa4f8eedd4b7bd17097
   m_configObjects: {}
