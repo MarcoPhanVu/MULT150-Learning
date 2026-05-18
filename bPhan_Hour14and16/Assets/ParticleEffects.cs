@@ -1,0 +1,3 @@
+/* Modifications that I made:
+Radius, color, duration, Collision Force, Angle, Particle Lifetime, Speed, Starting color and size with changes randomly...
+*/
