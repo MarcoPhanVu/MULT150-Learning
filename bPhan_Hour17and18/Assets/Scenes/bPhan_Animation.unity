@@ -133,6 +133,22 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: c21a7c516bf35c8448f974a7fb76ce8f, type: 2}
+    - target: {fileID: 368887318939397981, guid: 7c2632ad167c81442bf32f12d3b657a1, type: 3}
+      propertyPath: m_ConstrainProportionsScale
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1033575807908196768, guid: 7c2632ad167c81442bf32f12d3b657a1, type: 3}
+      propertyPath: m_ConstrainProportionsScale
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1973070455361135554, guid: 7c2632ad167c81442bf32f12d3b657a1, type: 3}
+      propertyPath: m_ConstrainProportionsScale
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2335219236997163509, guid: 7c2632ad167c81442bf32f12d3b657a1, type: 3}
+      propertyPath: m_ConstrainProportionsScale
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2617905502664185155, guid: 7c2632ad167c81442bf32f12d3b657a1, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -155,11 +171,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2617905502664185155, guid: 7c2632ad167c81442bf32f12d3b657a1, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.04
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2617905502664185155, guid: 7c2632ad167c81442bf32f12d3b657a1, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -1.3903903
+      value: -1.39039
       objectReference: {fileID: 0}
     - target: {fileID: 2617905502664185155, guid: 7c2632ad167c81442bf32f12d3b657a1, type: 3}
       propertyPath: m_LocalRotation.w
@@ -193,6 +209,10 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 4182828713187026624, guid: 7c2632ad167c81442bf32f12d3b657a1, type: 3}
+      propertyPath: m_ConstrainProportionsScale
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4861490034214435175, guid: 7c2632ad167c81442bf32f12d3b657a1, type: 3}
       propertyPath: m_Name
       value: Table
@@ -214,7 +234,7 @@ Animator:
   m_GameObject: {fileID: 188381277}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: c1475ad1b1020174ba111c7f517f13cf, type: 2}
+  m_Controller: {fileID: 9100000, guid: c70e692885f445245b090013c2e65574, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -225,6 +245,18 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &188381279
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 188381277}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d9fb61a2ab92314289723ed70a0d135, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1055291399
 GameObject:
   m_ObjectHideFlags: 0
