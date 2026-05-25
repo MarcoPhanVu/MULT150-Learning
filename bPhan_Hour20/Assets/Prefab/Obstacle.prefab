@@ -129,4 +129,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   manager: {fileID: 0}
   moveSpeed: 20
-  timeAmount: 1.5
+  timeAmount: -0.5

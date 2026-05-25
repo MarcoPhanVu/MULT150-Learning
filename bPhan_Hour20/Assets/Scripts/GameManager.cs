@@ -6,7 +6,7 @@ public class GameManager : MonoBehaviour
 {
     // Start is called before the first frame update
     public TextureScroller ground;
-    public float gameTime = 16;
+    public float gameTime = 8;
 
     float totalTimeElapsed = 0;
     bool isGameOver = false;
