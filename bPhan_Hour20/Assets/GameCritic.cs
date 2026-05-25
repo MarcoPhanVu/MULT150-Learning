@@ -12,5 +12,5 @@ If I have the time, I'll try to add more features like other endless runner game
 /* Changes that I made:
 Speed of the game.
 
-Overall Textures(replaced almost every thing)
+Overall Textures(replaced almost everything)
 */

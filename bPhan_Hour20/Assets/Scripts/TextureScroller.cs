@@ -18,7 +18,7 @@ public class TextureScroller : MonoBehaviour
     {
         // Increase offset based on time
         offset += Time.deltaTime * speed;
-        // Offset between 0 and 1
+        // Keep offset between 0 and 1
         if (offset > 1)
             offset -= 1;
         // Apply the offset to the material

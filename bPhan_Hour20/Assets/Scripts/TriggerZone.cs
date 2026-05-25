@@ -15,4 +15,10 @@ public class TriggerZone : MonoBehaviour
     {
         
     }
+
+    void OnTriggerEnter(Collider other)
+    {
+        // Debug.Log("destroying " + other.gameObject.name);
+        Destroy(other.gameObject);
+    }
 }
