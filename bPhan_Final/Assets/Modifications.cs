@@ -18,7 +18,7 @@
         ================================================================
         1 + 3 - directional light and skybox changed (colour, intensity, direction,...)
 
-        2 - fog: I don't like to have fog hehe
+        2 - fog: I don't like to have fog hehe, but I did had a magneta fog
 
         4 Player: - I creaeted a simple worm object but I did add animation and a smol particle system to make it look more alive.
 
@@ -41,6 +41,11 @@
         TERRAIN
         9 - raise/lower to reshape and make it distinctly different from original
         modifications: Added bounds to prevent player from falling off the map, and disguised them as mountains and hills.
+        Used new textures:
+        Grass: https://bgfons.com/img/nature/grass
+        Rocks: https://www.deviantart.com/neonsoldierx/art/Rocky-Surface-Texture-871433825
+
+        5 - use gameobject hierarchy to keep it organised: yes I did
 
     */
 }
