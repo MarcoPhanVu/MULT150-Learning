@@ -45,7 +45,10 @@
         Grass: https://bgfons.com/img/nature/grass
         Rocks: https://www.deviantart.com/neonsoldierx/art/Rocky-Surface-Texture-871433825
 
-        5 - use gameobject hierarchy to keep it organised: yes I did
+        10 - use gameobject hierarchy to keep it organised: yes I did
 
+        Sounds sources:
+        Donut: https://www.youtube.com/watch?v=--ar4KyCUww
+        Ambience: https://pixabay.com/sound-effects/nature-nature-ambience-323729/
     */
 }
